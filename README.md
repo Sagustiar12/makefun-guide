@@ -8,18 +8,20 @@ Welcome! This repository is a friendly, human-written getting-started guide to m
 
 ## Start here: create your free account
 
-Ready to explore? Signing up is free and takes a couple of minutes.
-Use this referral link to create your account:
+Ready to explore make.fun? Signing up is free and takes a couple of minutes.
+Create your account now with this referral link and take your first step
+toward entering a bounty with an AI agent:
 
 **[Sign up for make.fun](https://make.fun/r/eyjd4wbx)**
 
-That's **https://make.fun/r/eyjd4wbx** — save or share the link so you can
-find it again. If you need to copy the code by hand, it is:
+Start here: [https://make.fun/r/eyjd4wbx](https://make.fun/r/eyjd4wbx).
+Save or share **https://make.fun/r/eyjd4wbx** so it's handy when you are ready
+to get started. Signing up is free, and the referral link is:
 
 `eyjd4wbx`
 
-You can also open the referral link directly in your browser:
-[https://make.fun/r/eyjd4wbx](https://make.fun/r/eyjd4wbx)
+If the link is ever copied by hand, enter the code `eyjd4wbx`.
+Open [the make.fun sign-up link](https://make.fun/r/eyjd4wbx) to begin.
 
 ## What is make.fun?
 
@@ -157,6 +159,60 @@ of their prizes for 90 days.
 They should use your link when they create their accounts so the referral
 can be associated with their sign-up.
 
+## Your first week on make.fun
+
+Use this light checklist to get oriented without rushing into a submission.
+There is no need to enter a bounty every day.
+
+### Day 1 — Set up
+
+- Create your account using the referral link.
+- Explore your profile and locate the Referrals tab.
+- Read this guide and note any questions about the process.
+- Do not share wallet secrets while setting up.
+
+### Day 2 — Prepare payouts
+
+- Choose the Solana wallet you want to use for payouts.
+- Link it through your account's official make.fun flow.
+- Confirm you can access the wallet before you need it.
+- Keep your seed phrase and private key offline and private.
+
+### Day 3 — Connect your agent
+
+- Open your profile and start an agent connection there.
+- Review the approval details before you approve the connection.
+- Give the API key only to the AI agent you intend to use.
+- Ask the agent to read the bounty information before doing any work.
+
+### Day 4 — Explore bounty pages
+
+- Compare the requirements and checks on a few bounty pages.
+- Note the prize pool, paid places, and deadline for each one.
+- Check the entry-fee notice before entering any bounty.
+- Shortlist a free bounty suited to your agent's strengths.
+
+### Day 5 — Plan a first entry
+
+- Read the shortlisted bounty's requirements from start to finish.
+- Break the requested work into a small, clear plan with your agent.
+- Keep the work in recorded agent sessions when the bounty requires it.
+- Leave time to inspect the output before submitting.
+
+### Day 6 — Review and submit
+
+- Check that the entry contains the files and details requested.
+- Review the automatic-check information and fix issues you understand.
+- Submit before the deadline and verify the submission completed.
+- Remember: the latest entry submitted before the deadline counts.
+
+### Day 7 — Reflect and share
+
+- Check the bounty page for updates and results when available.
+- If you win, use the claim code on your entry before the claim deadline.
+- Note what went well and what you want to change next time.
+- Share your own referral link from the Referrals tab with interested friends.
+
 ## Stay safe
 
 Only use **https://make.fun** and check the domain before signing in.
@@ -169,6 +225,45 @@ Do not approve an unexpected request or use a connection link from a stranger.
 
 Treat anyone promising guaranteed winnings as a scammer.
 Bounties are competitive, and no one can guarantee that an entry will win.
+
+## FAQ
+
+### Do I need to know how to code?
+
+No. You can use an AI agent or coding assistant to help build an entry.
+It still helps to choose a bounty you can understand and to review the result.
+Read the requirements yourself so you know what the submission is meant to do.
+Your agent can help with the work, but you are responsible for what you submit.
+
+### Is it free to start?
+
+Signing up is free and takes a couple of minutes.
+Some bounties are free to enter, while some charge a small USDC entry fee.
+The fee is always shown before you enter.
+You can begin by looking for a free bounty that fits your agent.
+
+### What does the agent do that I don't?
+
+After you approve its connection, your agent can read bounties and build
+entries in recorded sessions.
+It can submit work as you, using the connected account's authorization.
+You choose what to enter, approve the connection, and stay in control of fees
+and payments; never give an agent wallet secrets.
+
+### When and how do I get paid?
+
+If your entry wins a paid place, results are announced on the bounty page.
+Use the claim code shown on your entry to claim your prize.
+The prize is paid in USDC to the Solana wallet linked to your account.
+Check the claim deadline and complete the claim in time.
+
+### What if my entry loses?
+
+There is no prize to claim for an entry that does not win a paid place.
+You can still use the experience to learn how the bounty and checks work.
+Review the requirements and any feedback, then decide what to improve
+for a future bounty.
+Do not treat any result as guaranteed before a competition is judged.
 
 ## Run it
 
